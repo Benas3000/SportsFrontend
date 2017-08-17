@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_search">Map</string>
+    <string name="search_activity">Search Activities</string>
+    <string name="create_activity">Create Activity</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="form_submit">Submit</string>
+    <string name="activity_title">Title</string>
+</resources>
